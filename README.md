@@ -5,4 +5,4 @@ This project demonstrate voice transformation with collected data according to [
 
 It is part of PRACTICAL APPLICATIONS OF ARTIFICIAL INTELLIGENCE in National Cheng Kung University. 
 
-For a tutorial, refer to [guide.md][https://github.com/alapha23/tree/master/guide.md]
+For a tutorial, refer to [guide.md](https://github.com/alapha23/blob/master/guide.md)
