@@ -63,5 +63,26 @@ Dataset is supposed to be partition with training set and test set.
 
 ```
 cd deep-voice-conversion/dataset
+ls
 bash timit.sh
 ```
+
+timit.sh should be placed in the same directory as the TIMIT folder
+
+6. Train your model
+---
+
+```
+cd ..
+pwd
+python train1.py
+```
+
+It will be certain that there are errors and the model won't be trained. 
+That's why we have you to figure it out. 
+Normally the progress bar should be moving. 
+
+Check the GPU occupation in another terminal by command `nvidia-smi`
+**Memory occupation will be around 150M  when it is not training.**
+
+
