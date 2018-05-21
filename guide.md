@@ -75,7 +75,7 @@ timit.sh should be placed in the same directory as the TIMIT folder.
 ```
 cd ..
 pwd
-python train1.py
+python train1.py dataset/TIMIT
 ```
 
 It will be certain that there are errors and the model won't be trained. 
